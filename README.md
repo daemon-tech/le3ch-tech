@@ -5,7 +5,8 @@
 ---
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
 - 📫 How to reach me: **Find me on 
-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=tindernor1)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=tindernor1)](https://github.com/gazf/github-readme-twitter)
+
 -----
 
 Last Edited on: 06/03/2022
