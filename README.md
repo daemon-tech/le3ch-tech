@@ -12,6 +12,11 @@
 -----
 
 **Some of the technologies I have worked with**
+[![More Stats](https://github-readme-stats.vercel.app/api/wakatime?username=le3ch-tech)](https://github.com/le3ch-tech)
+
+-----
+
+**Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
