@@ -7,12 +7,11 @@
 
 -----
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=le3ch-tech&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=le3ch-tech&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=le3ch-tech&hide_title=true&include_all_commits=true&line_height=21&theme=dark&show_icons=true" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=le3ch-tech&hide_title=true&layout=compact&theme=dark&show_icons=true" />
 
 -----
 
 **Some of the technologies I have worked with**
-[![More Stats](https://github-readme-stats.vercel.app/api/wakatime?username=le3ch-tech)](https://github.com/le3ch-tech)
 
 -----
 
