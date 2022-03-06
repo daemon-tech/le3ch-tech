@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">I am a developer, Full-Stack enthusiast, Python Ninja</h3>
+<h3 align="center"> -> I am a developer, Full-Stack enthusiast, Python Ninja<- </h3>
 </br>
 
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
@@ -11,11 +11,7 @@
 
 -----
 
-**Some of the technologies I have worked with**
-
------
-
-**Some of the technologies I have worked with**
+**Some of the technologies I have worked with:**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
@@ -25,7 +21,7 @@
 
 -----
 
-**Languages I have used**
+**Languages I have used:**
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -38,4 +34,4 @@
 
 ⭐️ From [Sam Moes](https://github.com/le3ch-tech)
 
-Last Edited on: 06/03/2022.
+Last Edited on: 06/03/2022
