@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center"> -> I am a developer, Full-Stack enthusiast, Python Ninja <- </h3>
+<h3 align="center"> -> I am a Web-Developer, Full-Stack enthusiast, Python Ninja <- </h3>
 </br>
 
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
