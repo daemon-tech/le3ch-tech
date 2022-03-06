@@ -7,7 +7,7 @@
 
 -----
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=le3ch-tech&hide_title=true&include_all_commits=true&line_height=21&theme=dark&show_icons=true" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=le3ch-tech&hide_title=true&layout=compact&theme=dark&show_icons=true" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=le3ch-tech&hide_title=true&include_all_commits=true&line_height=21&theme=ocean_dark&show_icons=true" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=le3ch-tech&hide_title=true&layout=compact&theme=ocean_dark&show_icons=true" />
 
 -----
 
