@@ -4,7 +4,7 @@
 
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
 - 📫 How to reach me: </br>
-- **Find me on <a href="https://twitter.com/tindernor1">Twitter</a>**
+**Find me on <a href="https://twitter.com/tindernor1">Twitter</a>**
 
 -----
 
