@@ -3,11 +3,7 @@
 </br>
 
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
-- 📫 How to reach me: 
-
-**Find me on <a href="https://twitter.com/tindernor1">Twitter</a>**
-
-**Find me on <a href="https://discordapp.com/users/250648489220898817/">Discord</a>**
+- 📫 How to reach me: **Find me on <a href="https://twitter.com/tindernor1">Twitter</a>** **, <a href="https://discordapp.com/users/250648489220898817/">Discord</a>**
 
 -----
 
