@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center"> -> I am a Web-Developer, Full-Stack enthusiast, Python Ninja <- </h3>
+<h3 align="center"> -> I am a Web-Developer, Full-Stack Enthusiast, Python Ninja <- </h3>
 </br>
 
 - 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
@@ -18,6 +18,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![VueJS](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff)
 
 -----
 
