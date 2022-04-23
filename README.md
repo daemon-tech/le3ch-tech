@@ -2,7 +2,7 @@
 <h3 align="center"> -> I am a Web-Developer, Full-Stack Enthusiast, Python Ninja <- </h3>
 </br>
 
-- 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries**
+- 💬 Ask me about: **Python 3, JavaScript, CSS, Information Security, Front-End Libraries, Solidity**
 - 📫 How to reach me: **Find me on <a href="https://twitter.com/tindernor1">Twitter</a>** **, <a href="https://discordapp.com/users/250648489220898817/">Discord</a>**
 
 -----
